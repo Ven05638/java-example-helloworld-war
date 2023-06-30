@@ -37,6 +37,6 @@ jobs:
             cp helloworld.war war/
             git add war
             git commit -m "Add WAR file"
-            git push origin master
+            git push origin Ven05638-patch-1
           
         
